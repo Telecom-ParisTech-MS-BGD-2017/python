@@ -13,7 +13,9 @@ http://python-prepa.github.io/
 
 # Install Package
 
-https://pypi.python.org/pypi  
+https://pypi.python.org/pypi
+https://www.continuum.io/downloads
+https://www.enthought.com/products/canopy/
 
 # Library
 
@@ -60,4 +62,7 @@ https://ipython.org/install.html
 $ ipython
 ~~~
 
+# Notebook
 
+http://jupyter.org/
+https://ipython.org/ipython-doc/3/notebook/
