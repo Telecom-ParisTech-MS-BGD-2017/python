@@ -64,5 +64,5 @@ $ ipython
 
 # Notebook
 
-http://jupyter.org/
+http://jupyter.org/  
 https://ipython.org/ipython-doc/3/notebook/
