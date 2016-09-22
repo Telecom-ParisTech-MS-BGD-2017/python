@@ -13,9 +13,9 @@ http://python-prepa.github.io/
 
 # Install Package
 
-https://pypi.python.org/pypi
-https://www.continuum.io/downloads
-https://www.enthought.com/products/canopy/
+https://pypi.python.org/pypi  
+https://www.continuum.io/downloads  
+https://www.enthought.com/products/canopy/  
 
 # Library
 
