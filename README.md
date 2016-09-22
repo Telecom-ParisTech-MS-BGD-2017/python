@@ -42,6 +42,7 @@ https://docs.python.org/2/library/unittest.html
 # Debugger
 
 https://docs.python.org/2/library/pdb.html  
+https://pypi.python.org/pypi/ipdb
 
 # Virtual environment
 
