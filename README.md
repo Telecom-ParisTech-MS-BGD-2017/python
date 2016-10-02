@@ -33,9 +33,10 @@ https://atom.io/
 http://www.vim.org/  
 https://pythonhosted.org/spyder/  
 
-# Coding style pep8
+# Coding style pep8 and Google style
 
 https://www.python.org/dev/peps/pep-0008/  
+https://google.github.io/styleguide/pyguide.html
 
 # Test
 
